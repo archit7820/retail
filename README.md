@@ -1,8 +1,17 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+=======
+This is the remote change.
+>>>>>>> branch-name
+
+
+
+
 
 In the project directory, you can run:
 
@@ -68,3 +77,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# retail
+website for third retail startup
+>>>>>>> 37b032d8e04b47b5d35e5a081f88ed9f13d2d260
