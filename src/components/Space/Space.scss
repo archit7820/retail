@@ -1,0 +1,149 @@
+
+
+.testimonialbar{
+
+    width: 1440px;
+    height: 600px;
+    margin-bottom:  120px ;
+    
+
+.testimonial {
+    display: flex;
+    justify-content: space-around;
+ 
+    margin: 0 auto;
+    
+  }
+  
+  .group-parent2 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 250px ;
+   
+    justify-content: center;
+  }
+  
+  .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:#fefeff ;
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 400px;
+    height: 380px;
+    margin: 30px;
+   
+  }
+  
+  .icon3,
+  .icon4 {
+    width: 50px; /* Adjust the width as needed */
+    height: auto; 
+    margin-right:  250px ;
+  }
+  
+  .text1 {
+    font-size: 22px;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
+  .text2 {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .ellipse-icon {
+    width: 48px; /* Adjust the width as needed */
+    height: 48px;
+    margin:  1px ; 
+    margin-top: 20px;
+  }
+  
+  .name {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 5px 0;
+    display: flex;
+    flex-direction: column ;
+    margin-top: 20px;
+  }
+  
+ 
+  /* Your CSS file (e.g., styles.css) */
+
+  .customer-testimonial-parent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .customer-testimonial {
+   
+    margin-left:180px ;
+    position: relative;
+font-size: 18px;
+letter-spacing: 0.5px;
+line-height: 26px;
+font-weight: 500;
+font-family: Poppins;
+color: #5c17e5;
+text-align: left;
+
+
+  }
+  
+  .learn-more-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    margin-right: px ;
+font-size: 18px;
+letter-spacing: 0.5px;
+line-height: 26px;
+font-weight: 500;
+font-family: Poppins;
+color: #5c17e5;
+text-align: left;
+gap: 2px ;
+  }
+  
+  .iconlyboldarrow-right-circ {
+    width: 60px;
+    height: auto; 
+    cursor: pointer;
+  }
+  
+  .people-say-about {
+  margin-top: 20px; 
+    font-size: 48px;
+letter-spacing: 0.5px;
+line-height: 56px;
+font-weight: 600;
+font-family: Inter;
+color: #303135;
+text-align: center;
+display: inline-block;
+width: 507.38px;
+margin-left : 630px ;
+  }
+ .imge-text{
+    display :flex ;
+    flex-direction:  row ;
+    gap:10px ;
+    .job {
+        font-size: 14px;        
+    }
+}
+}
+
+
+
+
+
+// new one 
+ 
+
+

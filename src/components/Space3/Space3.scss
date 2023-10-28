@@ -1,0 +1,173 @@
+.Space3{
+    background:rgb(255, 255, 255);
+    margin-top: 140px ;
+
+    .group-container{
+        position: relative;
+        display: flex ;
+        flex-direction: column;
+        background-color: rgb(255, 255, 255);
+        height: 860px; 
+        width: 1434px ;
+        margin-left: 120px;
+         margin-right:  120px;
+    
+            display: grid;
+            grid-template-columns: 3fr 1fr; 
+           
+           
+
+          .grid-item {
+         
+          
+          
+          }
+          .rectangle-wrapper {
+          
+            overflow: hidden;
+            flex-shrink: 0;
+            border-radius: 20px ;
+            width: 340px;
+            height: 760px;
+            background: #f5f5f5;
+        }
+          
+          .paragraph{
+          
+            margin-bottom: 20px ;
+         
+          }
+
+    }
+
+    .easy-steps{
+width: 283.71px;
+font-family: sans-serif;
+letter-spacing: -0.4px;
+line-height: 52px;
+text-align: left;
+font-size:  42px; 
+
+color : #1e0e62; ;
+
+    }
+
+.variety-of-designs{
+   
+line-height: 28px;
+font-weight: 500;
+text-align: left;
+font-family: sans-serif;
+color: #1e0e62 ;
+font-size: 18px ;
+width: 471.19px;
+    }
+    .fell-our-design{
+        font-family: sans-serif;
+         
+        color: #1e0e62 ;
+        font-size: 14px ;
+        letter-spacing: 2px;
+        line-height: 26px;
+        text-transform: uppercase;
+        width: 200.38px;
+        
+        }
+        .prob{
+            display: flex ;
+            
+        }
+        .concept{
+            margin-top: 11px ;
+            width: 260px ;
+            height: 78px;
+            font-family: sans-serif ;
+            color: rgba(21, 20, 57, 0.4); ;
+
+        }
+        .the-most-important{
+         
+font-size: 16px ;
+line-height: 26px; 
+font-family: sans-serif ;
+color: rgba(21, 20, 57, 0.4); ;
+text-align: left;
+
+width: 709.79px;
+        }
+
+            .video{
+                display: flex ;
+                
+                
+                flex-direction: row  ;
+                .photo-icon{
+                  
+                    display: block;
+                    margin-left: 82px ;
+                   margin-right: 31.08px ;margin-bottom: 75.2px ;
+                   
+    
+                }
+                .icon{
+                    position: absolute;
+                     margin-left: 133.33px ;
+                     margin-top: 35px;
+                    }
+
+        
+            }
+            .lineo {
+                position: absolute;
+                height: 61.40%;
+                width: 0.25%;
+                top: 13%;
+                display: block ;
+                right: 97.22%;
+                bottom: 13.13%;
+                left: 1.27%;
+                background-color: #edecec ;
+
+               
+            }
+    .circe-icon{
+    
+     height: 40px;         
+    
+     }
+     .numberv{
+        display:  flex ;
+         
+     }
+     .variety-of-designs{
+        margin-left: 31px ;
+        margin-bottom: 19.8px;
+     }
+     .the-most-important{
+          width: 709px;
+          height: 78px;
+          margin-left: 82px ;
+          margin-bottom: 64.2px ;
+  
+       }
+
+       .divx{
+        position: absolute ;
+ font-size: 18px ;
+    line-height: 26px;
+ font-weight: 500;
+ font-family: sans-serif ;
+ color: rgba(21, 20, 57, 0.4);
+ text-align: center;
+ display: inline-block;
+ width: 6.02px;
+
+ margin-left: 13px;
+ margin-top: 8px ;
+
+       }
+       
+
+     
+    
+}

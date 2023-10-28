@@ -1,0 +1,91 @@
+/* Footer.css */
+
+/* Style for the entire footer */
+.footer {
+
+    background-color: #f5f5f5;
+    color: #000000;
+    padding: 20px;
+    height: 424px;
+  
+  }
+  .foot{
+    margin-top: 30px;
+    display: flex;
+    flex-direction:  row;
+    flex : 4 ;
+    margin-left: 300px;
+    margin-right: 164px;
+    gap : 100px ;
+   
+  }
+  
+  /* Style for the headings in the footer */
+  .Heading h {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  /* Style for the lists in each section */
+  .Heading ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .Heading li {
+    list-style: none;
+    margin-bottom: 10px;
+  }
+  
+  /* Style for the links in the footer */
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .left{
+    display: flex ;
+    flex-direction: row;
+    gap: 20px ;
+  }
+  .line{
+    margin-top: 70px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-top: 1px solid #e5e7eb;
+  }
+   
+  
+  /* Style for the paragraph at the bottom */
+
+  .footy {
+
+   
+     margin-top: auto;
+   
+    margin-top:20px;
+    margin-left: 300px;
+    display:  flex ;
+    flex-direction: row ;
+    gap: 300px ;
+.language-currency{
+    display: flex;
+    flex-direction: row;
+    gap: 10px ;
+}
+    
+    .right{
+       display: flex ;
+       flex-direction: inline ;
+    gap: 20px ;
+     
+    }
+    .language{
+        display: flex ;
+        margin-left :40px ;
+    } 
+  
+
+
+  }
+
+  

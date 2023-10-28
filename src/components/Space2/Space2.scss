@@ -1,0 +1,323 @@
+
+
+
+
+
+.Space2{
+    position: relative;
+
+    .rectangle-parent4{
+       
+        display:  flex ;
+        flex-direction: row; 
+        margin-bottom: 120px ;
+        margin-top: 120px;
+        margin-left: 120px ;
+        margin-right: 120px ;
+    }
+    .home-page-inner{
+        position: relative;
+    }
+.group{
+    display: flex ;
+    flex-direction: column ;
+    gap : 20px ;
+    margin-left: 55.5px ;
+
+ .list {
+  
+     font-size: x-large;
+     font-weight: 600;
+     font-family: Inter;
+     color: rgba(0, 19, 37, 0.9);
+     font-size: 48px;
+     letter-spacing: 0.5px;
+     line-height: 56px;
+     text-align: left;
+     display: inline-block;
+     width : 400px ;
+     margin-top: 100px;
+}
+} 
+
+
+
+    
+.groupChild {
+    
+    top: 0px;
+    left: 28.5px;
+    width: 598.53px;
+    height: 475px;
+    object-fit: cover;
+}
+.groupItem {
+        top: 0px;
+    left: 0px;
+    border-radius: 20px;
+    background-color: #fefeff;
+    box-shadow: 35px 35px 65px rgba(146, 106, 120, 0.16);
+    width: 171.01px;
+    height: 236px;
+}
+.div {
+  margin-left: 32px ;
+    font-size: 72px;
+    line-height: 80px;
+    display: inline-block;
+    width: 147px;
+}
+.trusted-on {
+    margin-left: 32px ;
+    line-height: 24px;
+    color: #a6a6a6;
+    display: inline-block;
+    width: 83.54px;
+}
+.reviews {
+   
+    margin-left: 32px ;
+    line-height: 24px;
+    display: inline-block;
+    width: 108.11px;
+}
+.groupInner {
+  
+    top: 88px;
+    left: 1.97px;
+    width: 104.18px;
+    height: 18px;
+}
+.parent {
+    position: absolute  ;
+    box-shadow: rgba(146, 106, 120, 0.16);
+    margin-top: 64px ;
+    border-radius: 20px;
+   
+    left: 85px ;
+      
+    width: 147.55px;
+    height: 196px;
+    background-color: white ;
+}
+.rectangleGroup {
+    position: absolute;
+    top: 64px;
+    left: 0px;
+    width: 179px;
+    height: 236px;
+}
+
+.built{
+   
+    top: 229px;
+    left: 682.06px;
+    line-height: 26px;
+    color: #73788c;
+    display: inline-block;
+    width: 496.31px;
+
+
+   
+font-size: 16px;
+line-height: 26px;
+font-family: Poppins;
+
+text-align: left;
+ 
+
+}
+.registerWithUs1 {
+   
+    line-height: 24px;
+    font-weight: 500;
+}
+.cta {
+  
+    
+    left: 682.06px;
+    border-radius: 8px;
+    background-color: #5c17e5;
+    box-shadow: 24px 24px 65px rgba(92, 23, 229, 0.2);
+    width: 220.15px;
+    overflow: hidden;
+cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 18px 48px;
+    box-sizing: border-box;
+    color: #fefeff;
+}
+.supermarts {
+    margin: 0;
+    color: #a6a6a6;
+    font-size: 16px;
+    
+}
+.supermarts-on-list-container {
+     display: flex ;
+    
+     gap :10px ;
+    top: 3px;
+    left: 131px;
+    line-height: 26px;
+}
+.div1 {
+
+    font-size: 48px;
+    line-height: 58px;
+    font-weight: 600;
+    color: #054457;
+}
+.shelves-to-choose-container{
+    display: flex ;
+    gap :10px ;
+   top: 3px;
+   left: 131px;
+   line-height: 26px;
+
+}
+
+
+.frameDiv {
+   
+    top: 393px;
+    left: 120.88px;
+    background-color: #fff;
+    width: 550.37px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 32px;
+    box-sizing: border-box;
+    gap: 32px;
+    color: #a6a6a6;
+}
+
+.group-parent{
+   position: absolute ;
+    display: flex;
+    width: 550px;
+    height: 82px ;
+    flex-direction: row ;
+    gap: 32px ;
+    align-items: flex-start;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    text-align: left;
+    left: 203px ;
+    padding: 12px 32px;
+    margin-top: 408px ;
+    font-size: 16px;
+    background-color: white;
+    color: #054457;
+    font-family: Poppins;
+} 
+.group-icon{
+    margin-left: 32px;
+}
+
+
+}
+
+  // css of v our advante 
+   .container3{
+   background-color: #f5f5f5; 
+    height: 655px ;
+    width: 1550px;
+    justify-content : space-between;
+    margin-top:50px ;
+    margin-right: 100px;
+    margin-left: 70px ;
+    border-radius:  20px;
+   }
+
+   .tooper .giving{
+    margin-top: 20px ;
+    width: 1192px ;
+    font-size: 48px;
+letter-spacing: 0.5px;
+line-height: 56px;
+font-weight: 500;
+font-family: var(--font-rubik);
+color: #054457;
+text-align: left;
+display: inline-block ;
+}
+   .tooper .giving2{
+    margin-top: 28px ;
+    width: 180px ;
+    color: #5c17e5;
+    font-size: 18px;
+    background-color:  #f8f9fe; ;
+    padding : 10px;
+    letter-spacing: 0.5px;
+    font-weight: 600;
+    font-family: var(--font-rubik);
+    text-align: left;
+    display: inline-block;
+   }
+.hr{
+    border: none ;
+}
+  .container3 .tooper{
+   margin-left: 124px;
+  } 
+.inside{
+    display: flex ;
+    flex-direction: column ;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+    margin-left:  12px ;
+
+    margin-left: 20px;
+
+    
+} 
+.sure{
+    margin-left: 20px;
+    margin-right :20px ;
+    width :346px ;
+    color: #73788c;
+    display: inline-block;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    margin-bottom: 20px ;
+    margin-top: 16px ;
+    line-height: 26px;
+    font-family: var(--font-poppins);
+}
+
+.comfortable{
+    margin-left: 20px  ;
+    font-size : 28px;
+    line-height: 38px;
+    color: #054457;
+    letter-spacing: 0.5px;
+    font-family: var(--font-poppins);
+}
+   .biginside{
+    margin-top:  137px ;
+    display:  flex ;
+    flex-direction:  row ;
+   
+     gap: 20px ;
+    
+    margin-left: 124px;
+    margin-right: 124px;
+      
+   }
+   .iconlyboldheart{
+    margin-top: 20px ;
+    margin-bottom: 16px ;
+    margin-left: 20px ;
+    margin-right: 319px ;
+   }
+
+
+
+
+
